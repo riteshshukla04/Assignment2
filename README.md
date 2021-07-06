@@ -10,3 +10,5 @@ Login Page connected to firebase
 <h1>View Elements</h1> <br>
 <img src="3.PNG">
 Click on the element to delete
+
+
